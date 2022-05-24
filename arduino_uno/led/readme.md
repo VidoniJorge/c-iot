@@ -4,4 +4,5 @@ project:
 * turnon_turnoff_velocity: Source to control the velocity of turn on and turn off a led - fuente para controlar la velocidad de encendido y apagado de un led
 
 **circuit**
+
 ![](pot-circuit.jpg)
